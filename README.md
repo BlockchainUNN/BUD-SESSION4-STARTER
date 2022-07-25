@@ -1,10 +1,10 @@
-# Frontend Mentor - NFT preview card component
+# BLOCKCHAIN UNN - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/sr9i7z9p1tfb2m40pigu.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+This challenge was gotten from Frontend Mentor. you could check it out for more advanced challenges.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
@@ -45,7 +45,7 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+You can host your site using one of these providers.
 
 ## Create a custom `README.md`
 
@@ -57,5 +57,9 @@ Once you've added your information to the template, delete this file and rename 
 
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
+
+## SOLUTION
+It is highly recommended that you try this out yourself, before checking out the solution.
+https://github.com/Darlington02/session4-solution
 
 **Have fun building!** 🚀
