@@ -1,33 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | NFT preview card component</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="icon" href="./images/favicon-32x32.png" type="image/x-icon">
+    <link rel="stylesheet" href="./styles/styles.css">
+    <title>BLOCKCHAIN UNN| NFT preview card component solution </title>
 </head>
 <body>
+    <section class="card">
+        <div> <img id="nft-image" src="./images/image-equilibrium.jpg" alt=" nft-images" srcset="">
+       
+        </div>
+        <div class="contents">
+            <h2 id="name">Equilibrium #3429 </h2>
+            <p> Our Equilibrium collection promotes balance and calm </p>
+        </div>
 
-  Equilibrium #3429
+        <div class="payments">
+            <div class="price">
+                <img id="eth-icon" src="./images/icon-ethereum.svg" alt="eth-icon" srcset="">
+                <p id="eth-price"> 0.041 ETH</p>
+            </div>
+            <div class=" time">
+                <img id="clock-icon" src="./images/icon-clock.svg" alt=" time" srcset="">
+                <p>3 days left</p>
+            </div>
+        </div>
 
-  Our Equilibrium collection promotes balance and calm.
+        <hr/>
 
-  0.041 ETH
-  3 days left
+        <div class="footer">
+            <img id="avatar" src="./images/image-avatar.png" alt="" srcset="">
+            <p>Creation of <span id="end">Umeham Kingdavid</span></p>
+        </div>
+
+        
+    </section>
+
   
-  Creation of Jules Wyvern
-
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+    
 </body>
 </html>
